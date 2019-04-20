@@ -6,6 +6,6 @@
 
 # Portfolio 1 - 28.00 (70.00 %) See Portfolio 1 feedback PDF file for more info
 # Portfolio 2 - 23.00 (65.71 %) See Portfolio 2 feedbacl PDF file for more info
-'
-Author @navickar
-'
+
+- Author @navickar
+
